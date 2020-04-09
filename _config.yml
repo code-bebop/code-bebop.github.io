@@ -6,7 +6,7 @@ header_pages:
   - index.md
   - about.md
 
-footer: 'follow us on <a href="https://code-beobop.github.com/">Github</a>'
+footer: 'follow us on <a href="https://code-bebop.github.com/">Github</a>'
 
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
