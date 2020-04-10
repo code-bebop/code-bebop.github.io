@@ -1,5 +1,5 @@
 ---
-title: /
+title: Code Bebop Blog
 layout: home
 permalink: /
 ---
