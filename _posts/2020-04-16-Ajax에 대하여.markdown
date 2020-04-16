@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ajax에 대하여"
+date: 2020-04-16 17:38:02 +0100
+categories: javascript
+---
+
+# Ajax에 대하여
+
+## Ajax란 무엇인가?
+Ajax는 Asynchronous Javascript And Xml의 약자이다. 비동기적으로 자바스크립트와 Xml을 운용한다는 것인데, 어떻게 작동하는 것이고 왜 쓰는 걸까?
